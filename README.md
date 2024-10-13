@@ -23,8 +23,14 @@ We are currently in the development phase, working hard to bring the platform to
 
 ### Design & Structure
 
-- **Homepage Design**: [View the homepage design here](https://media.licdn.com/dms/image/v2/D4E22AQF9wXZGi6JtPw/feedshare-shrink_1280/feedshare-shrink_1280/0/1721867034466?e=1731542400&v=beta&t=dJ1DnKOsHBfHU2-h-AkVjTGzQCIjn2noUaziWC4Jj-U) 
-- **Platform Structure**: [See the structure of the idea here](https://media.licdn.com/dms/image/v2/D4E22AQGcIPnbnfMRog/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720204175703?e=1731542400&v=beta&t=Ws6LxjD2kdHV9Lg-JF9jy49AMUOwWp0waC9DwRAniVQ)
+- **Homepage Design**: 
+[View the homepage design here]
+<img src="/0.png" alt="Part01"/>
+
+- **Platform Structure**:
+- [See the structure of the idea here]
+<img src="/1.png" alt="Part02"/>
+
 
 ## Contact
 
