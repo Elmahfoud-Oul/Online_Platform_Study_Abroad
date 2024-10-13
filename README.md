@@ -23,7 +23,7 @@ We are currently in the development phase, working hard to bring the platform to
 
 ### Design & Structure
 
-- **Platform Structure**: -------------------------------------------------------------------------s
+- **Platform Structure**: -------------------------------------------------------------------------
   
 <img src="/1720204175703.jpeg" alt="Part02"/>
 
