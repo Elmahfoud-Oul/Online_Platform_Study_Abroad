@@ -23,12 +23,12 @@ We are currently in the development phase, working hard to bring the platform to
 
 ### Design & Structure
 
-- **Homepage Design**: 
-[View the homepage design here]
+- **Homepage Design**:
+  
 <img src="/0.png" alt="Part01"/>
 
 - **Platform Structure**:
-- [See the structure of the idea here]
+  
 <img src="/1.png" alt="Part02"/>
 
 
